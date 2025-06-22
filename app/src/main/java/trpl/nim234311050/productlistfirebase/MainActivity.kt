@@ -1,8 +1,9 @@
 package trpl.nim234311050.productlistfirebase
 
 import android.os.Bundle
-import androidx.activity.ComponentActivity
+
 import androidx.activity.compose.setContent
+import androidx.activity.ComponentActivity
 import androidx.lifecycle.viewmodel.compose.viewModel
 import trpl.nim234311050.productlistfirebase.ui.theme.ProductListFirebaseTheme
 import trpl.nim234311050.productlistfirebase.ui.theme.ProductListScreen
@@ -19,4 +20,5 @@ class MainActivity : ComponentActivity() {
         }
     }
 }
+
 
