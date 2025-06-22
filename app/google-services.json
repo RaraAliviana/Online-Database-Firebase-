@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "78576976155",
+    "project_id": "product-list-ed221",
+    "storage_bucket": "product-list-ed221.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78576976155:android:7bf42b3706e6dbd4fc93be",
+        "android_client_info": {
+          "package_name": "trpl.nim234311050.productlistfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ1gr9k_HIV8YUKAcG7vrZpmVSXuqoNyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
